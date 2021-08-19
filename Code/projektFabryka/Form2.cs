@@ -15,7 +15,7 @@ namespace projektFabryka
         public Form2()
         {
             InitializeComponent();
-		// dadsf
+		//  
         }
     }
 }
